@@ -7,4 +7,4 @@ Este es el repositorio donde se entregarán las actividades de la materia de Pro
 - Matrícula: A01796953
 
 ## Actividades
-- [Actividad 1 - Limpieza y tokenización de texto](actividad_1/MNA_NLP_semana_02_Actividad.ipynb)
+- [Actividad 1 - Limpieza y tokenización de texto](actividad_1/A01796953_semana2_actividad_01.ipynb)
